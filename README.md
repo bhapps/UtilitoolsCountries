@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/bhapps/UtilitoolsCountries.svg)](https://jitpack.io/#bhapps/UtilitoolsCountries)
 
-Android Utilities Countrieshas functions for fast prototyping and development of Android Applications that require features and functionality to build upon.
+Android Utilities Countries has functions for fast prototyping and development of Android Applications that require features and functionality to build upon.
 * Still Under Development, docs, updates to be on going
 
 # To be Done
